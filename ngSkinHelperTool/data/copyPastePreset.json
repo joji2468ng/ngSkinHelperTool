@@ -1,0 +1,20 @@
+{
+    "Body": [
+        "-", 
+        "-", 
+        "-"
+    ], 
+    "Prop": [], 
+    "Finger": [
+        "01 > Base01", 
+        "01 > Index01", 
+        "01 > Middle01", 
+        "01 > Ring01", 
+        "01 > Pinky01"
+    ], 
+    "Face": [
+        "upr > lwr", 
+        "lwr > upr",
+        "Socket > Lid"
+    ]
+}

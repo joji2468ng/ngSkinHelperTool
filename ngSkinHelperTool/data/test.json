@@ -1,0 +1,852 @@
+{
+    "Body": {
+        "index": 0, 
+        "name": "Body", 
+        "id": 1, 
+        "parentId": 0, 
+        "type": "group", 
+        "children": [
+            {
+                "layers": [
+                    {
+                        "index": 0, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1, 
+                        "name": "HeadAndNeck"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 2, 
+                        "name": "FkHead03"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 3, 
+                        "name": "FkHead02"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 4, 
+                        "name": "FkHead01"
+                    }, 
+                    {
+                        "index": 3, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 5, 
+                        "name": "Head"
+                    }, 
+                    {
+                        "index": 4, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 6, 
+                        "name": "Neck"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 7, 
+                        "name": "Fingers"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 7, 
+                        "type": "layer", 
+                        "id": 8, 
+                        "name": "Pinky"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 7, 
+                        "type": "layer", 
+                        "id": 9, 
+                        "name": "Ring"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 7, 
+                        "type": "layer", 
+                        "id": 10, 
+                        "name": "Middle"
+                    }, 
+                    {
+                        "index": 3, 
+                        "parentId": 7, 
+                        "type": "layer", 
+                        "id": 11, 
+                        "name": "Index"
+                    }, 
+                    {
+                        "index": 4, 
+                        "parentId": 7, 
+                        "type": "layer", 
+                        "id": 12, 
+                        "name": "Thumb"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 13, 
+                        "name": "Arm"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 13, 
+                        "type": "layer", 
+                        "id": 14, 
+                        "name": "Hand"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 13, 
+                        "type": "layer", 
+                        "id": 15, 
+                        "name": "LowerArm"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 13, 
+                        "type": "layer", 
+                        "id": 16, 
+                        "name": "UpperArm"
+                    }, 
+                    {
+                        "index": 3, 
+                        "parentId": 13, 
+                        "type": "layer", 
+                        "id": 17, 
+                        "name": "Shoulder"
+                    }, 
+                    {
+                        "index": 3, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 18, 
+                        "name": "Leg"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 18, 
+                        "type": "layer", 
+                        "id": 19, 
+                        "name": "Foot"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 18, 
+                        "type": "layer", 
+                        "id": 20, 
+                        "name": "LowerLeg"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 18, 
+                        "type": "layer", 
+                        "id": 21, 
+                        "name": "UpperLeg"
+                    }, 
+                    {
+                        "index": 4, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 22, 
+                        "name": "Torso"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 22, 
+                        "type": "layer", 
+                        "id": 23, 
+                        "name": "Hips"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 22, 
+                        "type": "layer", 
+                        "id": 24, 
+                        "name": "Chest"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 22, 
+                        "type": "layer", 
+                        "id": 25, 
+                        "name": "Spine"
+                    }, 
+                    {
+                        "index": 5, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 26, 
+                        "name": "Root"
+                    }
+                ], 
+                "index": 0, 
+                "name": "BipedAll_01", 
+                "parentId": 1, 
+                "type": "preset", 
+                "id": 5
+            }, 
+            {
+                "layers": [
+                    {
+                        "index": 0, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 4, 
+                        "name": "fk01_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 4, 
+                        "type": "layer", 
+                        "id": 5, 
+                        "name": "fk02_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 5, 
+                        "type": "layer", 
+                        "id": 6, 
+                        "name": "headFk03"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 3, 
+                        "type": "layer", 
+                        "id": 10, 
+                        "name": "arm_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 10, 
+                        "type": "layer", 
+                        "id": 11, 
+                        "name": "hand_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 23, 
+                        "type": "layer", 
+                        "id": 24, 
+                        "name": "leg_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 24, 
+                        "type": "layer", 
+                        "id": 28, 
+                        "name": "foot_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 28, 
+                        "type": "layer", 
+                        "id": 31, 
+                        "name": "lwrFoot"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 33, 
+                        "type": "layer", 
+                        "id": 1, 
+                        "name": "head_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 0, 
+                        "id": 33, 
+                        "name": "neck_MASK"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 5, 
+                        "type": "layer", 
+                        "id": 7, 
+                        "name": "headFk02"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 4, 
+                        "type": "layer", 
+                        "id": 8, 
+                        "name": "headFk01"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 9, 
+                        "name": "head"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 10, 
+                        "type": "layer", 
+                        "id": 12, 
+                        "name": "lwrArm"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 11, 
+                        "type": "layer", 
+                        "id": 16, 
+                        "name": "thumb"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 3, 
+                        "type": "layer", 
+                        "id": 22, 
+                        "name": "chest"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 23, 
+                        "type": "layer", 
+                        "id": 25, 
+                        "name": "hip"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 24, 
+                        "type": "layer", 
+                        "id": 29, 
+                        "name": "lwrLeg"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 28, 
+                        "type": "layer", 
+                        "id": 32, 
+                        "name": "uprFoot"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 33, 
+                        "type": "layer", 
+                        "id": 2, 
+                        "name": "neck"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 3, 
+                        "name": "uprBody_MASK"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 10, 
+                        "type": "layer", 
+                        "id": 13, 
+                        "name": "uprArm"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 11, 
+                        "type": "layer", 
+                        "id": 17, 
+                        "name": "tipFinger"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 23, 
+                        "type": "layer", 
+                        "id": 26, 
+                        "name": "pelvis"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 24, 
+                        "type": "layer", 
+                        "id": 30, 
+                        "name": "uprLeg"
+                    }, 
+                    {
+                        "index": 3, 
+                        "parentId": 10, 
+                        "type": "layer", 
+                        "id": 14, 
+                        "name": "clavicle"
+                    }, 
+                    {
+                        "index": 3, 
+                        "parentId": 11, 
+                        "type": "layer", 
+                        "id": 18, 
+                        "name": "midFinger"
+                    }, 
+                    {
+                        "index": 3, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 23, 
+                        "name": "lwrBody_MASK"
+                    }, 
+                    {
+                        "index": 4, 
+                        "parentId": 11, 
+                        "type": "layer", 
+                        "id": 19, 
+                        "name": "baseFInger"
+                    }, 
+                    {
+                        "index": 4, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 27, 
+                        "name": "spine"
+                    }, 
+                    {
+                        "index": 5, 
+                        "parentId": 11, 
+                        "type": "layer", 
+                        "id": 20, 
+                        "name": "metaFinger"
+                    }, 
+                    {
+                        "index": 6, 
+                        "parentId": 11, 
+                        "type": "layer", 
+                        "id": 21, 
+                        "name": "hand"
+                    }
+                ], 
+                "index": 1, 
+                "name": "BipedAll_02", 
+                "parentId": 1, 
+                "type": "preset", 
+                "id": 4
+            }
+        ]
+    }, 
+    "Prop": {
+        "index": 2, 
+        "name": "Prop", 
+        "id": 3, 
+        "parentId": 0, 
+        "type": "group", 
+        "children": [
+            {
+                "layers": [
+                    {
+                        "index": 0, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 2, 
+                        "name": "New Layer"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1, 
+                        "name": "Root"
+                    }
+                ], 
+                "index": 0, 
+                "name": "All", 
+                "parentId": 3, 
+                "type": "preset", 
+                "id": 8
+            }, 
+            {
+                "index": 1, 
+                "name": "NewGroup", 
+                "id": 1, 
+                "parentId": 3, 
+                "type": "group", 
+                "children": [
+                    {
+                        "layers": [
+                            {
+                                "index": 0, 
+                                "parentId": 0, 
+                                "type": "layer", 
+                                "id": 1, 
+                                "name": "Root"
+                            }
+                        ], 
+                        "index": 0, 
+                        "name": "preset", 
+                        "parentId": 1, 
+                        "type": "preset", 
+                        "id": 14
+                    }
+                ]
+            }, 
+            {
+                "layers": [
+                    {
+                        "index": 0, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 2, 
+                        "name": "New Layer"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1, 
+                        "name": "Root"
+                    }
+                ], 
+                "index": 2, 
+                "name": "Test", 
+                "parentId": 3, 
+                "type": "preset", 
+                "id": 15
+            }
+        ]
+    }, 
+    "Face": {
+        "index": 1, 
+        "name": "Face", 
+        "id": 2, 
+        "parentId": 0, 
+        "type": "group", 
+        "children": [
+            {
+                "layers": [
+                    {
+                        "index": 0, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1, 
+                        "name": "Brow"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 2, 
+                        "name": "Lids"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 3, 
+                        "name": "Sockets"
+                    }, 
+                    {
+                        "index": 3, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 4, 
+                        "name": "Squints"
+                    }, 
+                    {
+                        "index": 4, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 5, 
+                        "name": "NoseBridge"
+                    }, 
+                    {
+                        "index": 5, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 6, 
+                        "name": "SocketBase"
+                    }, 
+                    {
+                        "index": 6, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 7, 
+                        "name": "Root"
+                    }
+                ], 
+                "index": 0, 
+                "name": "UpperHead", 
+                "parentId": 2, 
+                "type": "preset", 
+                "id": 7
+            }, 
+            {
+                "layers": [
+                    {
+                        "index": 0, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 2, 
+                        "name": "cheek_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 2, 
+                        "type": "layer", 
+                        "id": 3, 
+                        "name": "base"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1, 
+                        "name": "Root"
+                    }
+                ], 
+                "index": 1, 
+                "name": "Cheek", 
+                "parentId": 2, 
+                "type": "preset", 
+                "id": 9
+            }, 
+            {
+                "layers": [
+                    {
+                        "layers": [], 
+                        "index": 0, 
+                        "name": "radial_MASK", 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 1, 
+                        "name": "jaw", 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 2
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 2, 
+                        "name": "nose_MASK", 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 3
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 0, 
+                        "name": "noseTip_MASK", 
+                        "parentId": 3, 
+                        "type": "layer", 
+                        "id": 4
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 0, 
+                        "name": "LR_nostril", 
+                        "parentId": 4, 
+                        "type": "layer", 
+                        "id": 5
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 1, 
+                        "name": "C_nostril", 
+                        "parentId": 4, 
+                        "type": "layer", 
+                        "id": 6
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 2, 
+                        "name": "noseTip", 
+                        "parentId": 4, 
+                        "type": "layer", 
+                        "id": 7
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 1, 
+                        "name": "nose", 
+                        "parentId": 3, 
+                        "type": "layer", 
+                        "id": 8
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 3, 
+                        "name": "muppet", 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 9
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 0, 
+                        "name": "cnr", 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 10
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 1, 
+                        "name": "upr", 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 11
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 2, 
+                        "name": "lwr", 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 12
+                    }
+                ], 
+                "index": 2, 
+                "name": "NoseJaw", 
+                "parentId": 2, 
+                "type": "preset", 
+                "id": 10
+            }, 
+            {
+                "layers": [
+                    {
+                        "index": 0, 
+                        "parentId": 3, 
+                        "type": "layer", 
+                        "id": 4, 
+                        "name": "ear03"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 2, 
+                        "type": "layer", 
+                        "id": 3, 
+                        "name": "ear03_MASK"
+                    }, 
+                    {
+                        "index": 0, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 2, 
+                        "name": "ear02_MASK"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1, 
+                        "name": "ear01_MASK"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 2, 
+                        "type": "layer", 
+                        "id": 5, 
+                        "name": "ear02"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 1, 
+                        "type": "layer", 
+                        "id": 6, 
+                        "name": "ear01"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 7, 
+                        "name": "Root"
+                    }
+                ], 
+                "index": 3, 
+                "name": "Ear", 
+                "parentId": 2, 
+                "type": "preset", 
+                "id": 11
+            }, 
+            {
+                "layers": [
+                    {
+                        "layers": [], 
+                        "index": 0, 
+                        "name": "lips", 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 1, 
+                        "name": "muzzle", 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 2
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 2, 
+                        "name": "Root", 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 3
+                    }
+                ], 
+                "index": 4, 
+                "name": "Muzzle", 
+                "parentId": 2, 
+                "type": "preset", 
+                "id": 12
+            }, 
+            {
+                "layers": [
+                    {
+                        "index": 0, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 2, 
+                        "name": "radial_MASK"
+                    }, 
+                    {
+                        "layers": [], 
+                        "index": 0, 
+                        "name": "cnr", 
+                        "parentId": 2, 
+                        "type": "layer", 
+                        "id": 5
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 2, 
+                        "type": "layer", 
+                        "id": 4, 
+                        "name": "upr"
+                    }, 
+                    {
+                        "index": 1, 
+                        "parentId": 0, 
+                        "type": "layer", 
+                        "id": 1, 
+                        "name": "Root"
+                    }, 
+                    {
+                        "index": 2, 
+                        "parentId": 2, 
+                        "type": "layer", 
+                        "id": 3, 
+                        "name": "lwr"
+                    }
+                ], 
+                "index": 5, 
+                "name": "Lip", 
+                "parentId": 2, 
+                "type": "preset", 
+                "id": 13
+            }
+        ]
+    }
+}
