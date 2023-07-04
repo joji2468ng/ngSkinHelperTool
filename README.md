@@ -5,7 +5,7 @@ I've recently developed this tool under the supervision of a lead rigger in Reel
 
 https://vimeo.com/841102271?share=copy
 
-This tool contains 4 main tabs  ["CopyPaste", "Build", "Mirror", "Utils"] to help your skin process when using ngSkinTools.   
+This tool contains 4 main tabs  *["CopyPaste", "Build", "Mirror", "Utils"]* to help your skin process when using ngSkinTools.   
 Also seamlessly implement the functions between ngSkinTools1 and ngSkinTools2. For each description of Tabs, please see the following.
 
 Here are some features of the helper tool:
