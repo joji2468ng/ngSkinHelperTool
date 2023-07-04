@@ -9,8 +9,6 @@ This tool contains 4 main tabs  *["CopyPaste", "Build", "Mirror", "Utils"]* to h
 Also seamlessly implement the functions between ngSkinTools1 and ngSkinTools2.   
 For each description of Tabs, please see the following.
 
-Here are some features of the helper tool:
-
 ## CopyPaste Tab
 ・It allows for the copying and pasting of multiple joints between different layers  
 by replacing occurrences of a specified substring within a string with another substring all at once.   
